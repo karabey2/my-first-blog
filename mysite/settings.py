@@ -25,7 +25,7 @@ SECRET_KEY = 'pdj&($bt(c7&pukbp_b+j^m1l3c5llc6f&8$s!m-r@61thy@^-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ALLOWED_HOSTS = ['127.0.0.1', 'karabey2.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'karabey2.pythonanywhere.com']
 
 
 # Application definition
